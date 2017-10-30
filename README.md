@@ -1,2 +1,4 @@
 # Hacklabugr
 Taller de hacklab ugr 
+
+RECUERDA: EL HACKTOBERFEST ACABA EL 31 DE OCTUBRE MUAJAJAJAJA
